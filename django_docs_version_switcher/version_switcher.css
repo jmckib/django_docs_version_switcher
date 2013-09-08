@@ -1,0 +1,20 @@
+div.version-switcher-message {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+
+  background-color: black;
+  color: white;
+
+  height: 44px;
+  line-height: 44px;
+  text-align: center;
+  vertical-align: middle;
+
+  opacity: .8;
+}
+
+div.version-switcher-message > p {
+  margin: 0;
+}
