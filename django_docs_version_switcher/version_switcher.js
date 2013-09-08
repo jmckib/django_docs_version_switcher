@@ -22,7 +22,7 @@
     window.location.replace(new_url_string);
     localStorage.display_version_switcher_message = true;
   } else if (localStorage.display_version_switcher_message) {
-    localStorage.display_version_switcher_message = false;
+    delete localStorage.display_version_switcher_message;
     display_msg = function() {
       var $message_div, hide_msg;
       $message_div = $("<div class='version-switcher-message'><p>You've been redirected to the docs for <strong>" + localStorage.django_version + "</strong>.&nbsp;&nbsp;<em>- Django Docs Version Switcher</em</p></div>");
