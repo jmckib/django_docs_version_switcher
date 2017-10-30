@@ -3,7 +3,7 @@
   var display_msg, match, new_url_string, regex, url_string;
 
   if (!localStorage.django_version) {
-    localStorage.django_version = '1.6';
+    localStorage.django_version = '1.11';
   }
 
   $(document).ready(function() {

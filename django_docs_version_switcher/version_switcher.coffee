@@ -1,6 +1,6 @@
 if not localStorage.django_version
     # Set default for new users.
-    localStorage.django_version = '1.6'
+    localStorage.django_version = '1.11'
 
 $(document).ready ->
     $('ul#doc-versions a').click ->
