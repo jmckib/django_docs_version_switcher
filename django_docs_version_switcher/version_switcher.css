@@ -1,4 +1,4 @@
-div.version-switcher-message {
+div#version-switcher-message {
   position: fixed;
   top: 0;
   left: 0;
@@ -15,6 +15,6 @@ div.version-switcher-message {
   opacity: .8;
 }
 
-div.version-switcher-message > p {
+div#version-switcher-message > p {
   margin: 0;
 }
