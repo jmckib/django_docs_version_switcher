@@ -3,4 +3,6 @@ Django Docs Version Switcher
 
 A Google Chrome extension that remembers your Django version on docs.djangoproject.com
 
-[Install from the Chrome Web Store.](https://chrome.google.com/webstore/detail/django-docs-version-switc/ikbaalaedidcnibhkibgckbmmcndnmon)
+[Google Chrome install](https://chrome.google.com/webstore/detail/django-docs-version-switc/ikbaalaedidcnibhkibgckbmmcndnmon)
+
+[Firefox install](https://addons.mozilla.org/en-US/firefox/addon/django-docs-version-switcher/)
